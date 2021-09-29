@@ -1,0 +1,23 @@
+{
+	"name": "tailwind-project",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"buildDev": "tailwindcss build css/styles.css -o public/styles.css"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/PrinceNiyonshuti/tailwind-project.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/PrinceNiyonshuti/tailwind-project/issues"
+	},
+	"homepage": "https://github.com/PrinceNiyonshuti/tailwind-project#readme",
+	"dependencies": {
+		"tailwindcss": "^2.2.16"
+	}
+}
